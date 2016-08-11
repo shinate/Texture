@@ -1,0 +1,4 @@
+This is the Kemono texture development kit, here you will find everything you need to create your own Kemono texture mods.
+
+The "TDK combined - layered.cxf/psd" files for photchop and gimp, have the head, body and tail textures on a single page, this makes it easier to work with and match colors of each body part. 
+When you are done with your mod, cut it up back and save it into 3 separate images, head 1024x1024, body 512x1024 and tail 512x512.
